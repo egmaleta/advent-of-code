@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       Aoc202401
+      Aoc202402
   other-modules:
       Paths_advent_of_code
   autogen-modules:
